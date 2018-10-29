@@ -1,1 +1,1 @@
-# alpkea Website Information comming soon!
+# alpkea Website Information coming soon!
