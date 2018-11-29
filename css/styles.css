@@ -638,6 +638,13 @@ p.footer-bottom {
   }
 }
 
+@media (max-width: 660px) {
+  .about iframe {
+    width: 320px;
+    height: 180px;
+  }
+}
+
 
 /* CONTACT PAGE */
 /* CONTACT PAGE */
