@@ -471,12 +471,13 @@ button.navbar-toggler:hover {
 }
 
 .other-services .heading {
-  font-size: 1.4em;
+  font-size: 1.8em;
   margin-bottom: 35px;
 }
 
 .other-services .sub-heading {
   margin-top: 25px;
+  font-size: 1.1em;
 }
 
 .other-services img {
@@ -503,6 +504,9 @@ button.navbar-toggler:hover {
   .other-services img {
     width: 200px;
     height: 200px;
+  }
+  .other-services .heading {
+    font-size: 1.5em;
   }
 }
 
@@ -558,6 +562,7 @@ p.footer-bottom {
 
 .about p {
   line-height: 1.6;
+  font-size: 1.1em;
 }
 
 .about .center {
@@ -693,6 +698,7 @@ p.footer-bottom {
   line-height: 1.6;
   margin: 30px 50px 22px;
   text-align: left;
+  font-size: 1.1em;
 }
 .line-break {
   margin: 40px 50px 0;
